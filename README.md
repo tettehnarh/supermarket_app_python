@@ -1,5 +1,5 @@
 ## Creating a Supermarket App Using Python
-A coursera guided project to code a fully funtioning supermarket system using Python programming language.
+This a coursera guided project to code a fully funtioning supermarket system using Python programming language.
 
 ### Course Objectives
 - Work with dictionaries and their uses.
